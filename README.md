@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/github/followers/Carlglain?label=Follow%20%40Carlglain&style=social" alt="Follow @Carlglain"/>
 </a>
 
-- 🌱 I build **Frontend Development** and **Backend Development**
+- 🌱 I do both **Frontend Development** and **Backend Development**
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Carlglain?tab=repositories)
-- 💬 Ask me about **JavaScript, TypeScript, React, React Native, Node.js, Python & FastAPI**
+- 💬 Ask me about **JavaScript, TypeScript, React, React Native, Node.js, Python & FastAPI , C**
 - 📫 How to reach me: **carlglainnyuysemo@gmail.com**
 
 ## Connect with me:
